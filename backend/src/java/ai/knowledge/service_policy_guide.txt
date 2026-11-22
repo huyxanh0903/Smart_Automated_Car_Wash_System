@@ -1,0 +1,37 @@
+[CHÍNH SÁCH DỊCH VỤ, ĐẶT LỊCH VÀ KHÁCH HÀNG THÂN THIẾT]
+
+1. QUY ĐỊNH ĐẶT LỊCH (BOOKING POLICY):
+- Khách hàng có thể đặt lịch trước qua website để tránh phải xếp hàng chờ đợi tại gara.
+- Quy trình đặt lịch:
+  + Bước 1: Chọn phương tiện đã đăng ký trong hồ sơ (Biển số xe, dòng xe).
+  + Bước 2: Chọn các dịch vụ cần thực hiện (Gói rửa chính + các dịch vụ bổ sung).
+  + Bước 3: Chọn ngày và khung giờ (Slot) còn trống.
+  + Bước 4: Nhập mã khuyến mãi (Promotion Voucher) nếu có.
+  + Bước 5: Xác nhận và thanh toán (chuyển khoản VietQR hoặc trừ số dư Ví cá nhân).
+- Thời gian cho mỗi lượt rửa trung bình là 30 - 45 phút tùy số lượng dịch vụ chọn kèm.
+- Khách hàng vui lòng có mặt tại gara trước giờ hẹn ít nhất 5-10 phút.
+
+2. CHÍNH SÁCH HẠNG THÀNH VIÊN (TIERS & LOYALTY):
+- Hệ thống áp dụng 4 cấp độ thành viên:
+  + Hạng Đồng (Bronze / Mặc định):
+    * Điều kiện: Thành viên mới đăng ký tài khoản.
+    * Quyền lợi: Tích lũy 1x điểm thưởng theo giá trị đơn hàng. Đặt lịch trước tối đa 3 ngày.
+  + Hạng Bạc (Silver):
+    * Điều kiện: Tối thiểu 5 lượt rửa hoặc chi tiêu tích lũy từ 500,000 VNĐ.
+    * Quyền lợi: Hệ số tích điểm 1.1x, giảm giá 5% trên tổng hóa đơn dịch vụ, đặt lịch trước tối đa 5 ngày.
+  + Hạng Vàng (Gold):
+    * Điều kiện: Tối thiểu 15 lượt rửa hoặc chi tiêu tích lũy từ 2,000,000 VNĐ.
+    * Quyền lợi: Hệ số tích điểm 1.25x, giảm giá 10% trên tổng hóa đơn dịch vụ, đặt lịch trước tối đa 7 ngày, ưu tiên khoang rửa nhanh.
+  + Hạng Bạch Kim (Platinum / Diamond):
+    * Điều kiện: Tối thiểu 30 lượt rửa hoặc chi tiêu tích lũy từ 5,000,000 VNĐ.
+    * Quyền lợi: Hệ số tích điểm 1.5x, giảm giá 15% trên hóa đơn, đặt lịch trước tối đa 14 ngày, miễn phí dịch vụ khử mùi ozone nội thất hàng tháng.
+- Chu kỳ xét hạng: Đánh giá định kỳ 30 ngày. Điểm thưởng có thời hạn sử dụng 1 năm kể từ ngày tích lũy.
+
+3. CHÍNH SÁCH ĐỔI / HỦY LỊCH VÀ HOÀN TIỀN:
+- Hủy trước giờ hẹn ít nhất 2 tiếng: Được hủy miễn phí, hoàn 100% số tiền đã thanh toán vào Ví Car Wash trong tài khoản.
+- Hủy sát giờ (dưới 2 tiếng): Khấu trừ 30% phí giữ chỗ, 70% còn lại được hoàn vào ví.
+- Quá giờ hẹn 15 phút mà khách không có mặt và không liên hệ hotline: Lịch đặt sẽ tự động chuyển sang trạng thái Hủy/No-Show và không hoàn phí.
+
+4. PHƯƠNG THỨC THANH TOÁN:
+- Thanh toán chuyển khoản tự động qua mã VietQR: Hệ thống tạo mã QR động chứa đúng số tiền và nội dung chuyển khoản, tiền vào hệ thống tự động xác nhận sau 10-30 giây.
+- Thanh toán bằng Số dư Ví Car Wash (Wallet): Khách nạp tiền trước vào ví để thanh toán 1-click tức thì không cần mở app ngân hàng.
