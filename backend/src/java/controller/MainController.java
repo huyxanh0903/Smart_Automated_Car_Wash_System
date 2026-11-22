@@ -122,6 +122,11 @@ public class MainController extends HttpServlet {
                     url = "loyalty-rewards";
                     break;
 
+                case "aiChat":
+                case "ai-chat":
+                    url = "ai-chat";
+                    break;
+
                 default:
                     request.setAttribute("ERROR_MESSAGE", "Your action can not be handled now.");
                     url = "views/error.jsp";

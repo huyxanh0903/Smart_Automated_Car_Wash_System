@@ -17,6 +17,8 @@
     </div>
 </footer>
 
+<jsp:include page="/components/aiChatWidget.jsp" />
+
 <script>
     function toggleDropdown(event) {
         if (event) {
