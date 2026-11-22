@@ -1,0 +1,42 @@
+[KIẾN THỨC CHĂM SÓC VÀ BẢO DƯỠNG XE HƠI]
+
+1. PHÂN LOẠI DÒNG XE VÀ ĐẶC ĐIỂM RỬA XE:
+- Xe cỡ nhỏ / Hatchback / Sedan (Kia Morning, Hyundai Accent, Toyota Vios, Mazda 3, Honda City, Civic):
+  + Đặc điểm: Gầm thấp, diện tích bề mặt vừa phải, dễ bị bám bụi cát và bùn đất ở hốc bánh xe và cản trước.
+  + Gói rửa khuyến nghị: Rửa tiêu chuẩn hoặc Rửa bọt tuyết bóng sơn. Thời gian rửa khoảng 15-25 phút.
+- Xe SUV / Crossover / MPV 5-7 chỗ (Mazda CX-5, Honda CR-V, Hyundai Tucson, SantaFe, Toyota Fortuner, Mitsubishi Xpander):
+  + Đặc điểm: Thân xe lớn, khoảng sáng gầm cao, diện tích kính lái và nóc xe rộng, thường xuyên đi đường trường bám nhiều bùn đất, dầu mỡ gầm.
+  + Gói rửa khuyến nghị: Rửa chăm sóc toàn diện, xịt gầm áp lực cao và vệ sinh hốc bánh xe.
+- Xe Bán tải / Bán tải địa hình (Ford Ranger, Toyota Hilux, Mitsubishi Triton):
+  + Đặc điểm: Thường chở nặng, bùn đất bám dày ở thùng xe và hệ thống treo, gầm xe.
+  + Gói rửa khuyến nghị: Rửa bọt tuyết tăng cường + Xịt rửa gầm chống gỉ sét.
+
+2. CÁC TÌNH TRẠNG BẨN VÀ PHƯƠNG PHÁP XỬ LÝ CHUYÊN SÂU:
+- Bám bùn đất cát sau mưa ngập:
+  + Tuyệt đối không dùng khăn lau khô vì hạt cát sẽ làm xước xoáy (swirl marks) lớp sơn bóng.
+  + Cần xịt tráng áp lực cao làm mềm bùn đất, sau đó phủ bọt tuyết tuyết hoạt tính trung tính pH để nhấc bổng chất bẩn trước khi rửa cơ học.
+- Ố mốc kính lái và vệt nước cứng (Water Spots):
+  + Nguyên nhân: Nước mưa chứa axit hoặc nước rửa xe chứa khoáng chất bốc hơi đọng lại cặn canxi.
+  + Xử lý: Cần gói "Tẩy ố kính chuyên sâu" hoặc đánh bóng kính nhẹ, kết hợp phủ nano chống bám nước (hiệu ứng lá sen).
+- Dính nhựa đường, nhựa cây, xác côn trùng:
+  + Vết nhựa đường đen li ti bám ở sườn và cản xe không thể rửa sạch bằng xà phòng thông thường.
+  + Xử lý: Dùng dung dịch dung môi chuyên dụng làm tan nhựa đường và chất hữu cơ trước khi rửa bọt tuyết.
+- Ố vàng la-zăng và mạt sắt từ má phanh:
+  + Mạt sắt nóng sinh ra khi phanh xe bám chặt vào mâm xe.
+  + Xử lý: Dung dịch xịt lazang đổi màu khử ion sắt chuyên dụng.
+
+3. DỊCH VỤ CHĂM SÓC NỘI THẤT VÀ KHOANG MÁY:
+- Vệ sinh nội thất:
+  + Ghế da: Dùng dung dịch bọt cân bằng pH làm sạch bụi bẩn trong lỗ thông hơi của da, sau đó dưỡng kem làm mềm da để tránh nứt nẻ do nắng nóng.
+  + Ghế nỉ: Hút bụi sâu và giặt hơi nước nóng để diệt khuẩn, khử mùi ẩm mốc.
+  + Khử mùi diệt khuẩn: Xông tinh dầu hoặc khử ozone diệt 99% vi khuẩn trong hệ thống điều hòa.
+- Vệ sinh khoang động cơ:
+  + Khuyến nghị thực hiện 3-6 tháng/lần.
+  + Lợi ích: Tăng khả năng tản nhiệt của động cơ, hạn chế chuột và côn trùng làm tổ cắn phá dây điện, dễ phát hiện rò rỉ dầu mỡ.
+
+4. HƯỚNG DẪN AN TOÀN TRƯỚC KHI VÀO HỆ THỐNG RỬA XE TỰ ĐỘNG:
+- Gập 2 gương chiếu hậu.
+- Đóng kín 4 cửa sổ và cửa sổ trời (sunroof).
+- Tắt hệ thống gạt mưa tự động (tránh gạt mưa bị chổi cọ quét làm gãy).
+- Chuyển cần số về vị trí N (Số Mo) khi xe nằm trên băng chuyền kéo tự động, hoặc về P/Kéo phanh tay nếu rửa tại khoang tĩnh (Bay).
+- Không tự ý mở cửa xe trong suốt quá trình hệ thống đang phun bọt và xịt áp lực cao.
